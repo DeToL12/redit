@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://netflix-secure.vercel.app"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://update-info.vercel.app"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
